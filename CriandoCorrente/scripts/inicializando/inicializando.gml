@@ -1,0 +1,1 @@
+#macro CONVERSAO (pi/180)
